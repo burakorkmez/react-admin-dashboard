@@ -1,8 +1,26 @@
-# React + Vite
+<h1 align="center">MERN Crash Course 🚀</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Demo App](/public/screenshot-for-readme-1.png)
+![Demo App](/public/screenshot-for-readme-2.png)
+![Demo App](/public/screenshot-for-readme-3.png)
 
-Currently, two official plugins are available:
+[Video Tutorial on Youtube](https://youtu.be/gK0v_d91epk)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### This is a free admin dashboard ui kit built with:
+
+-   React
+-   Tailwind CSS
+-   Recharts
+-   Framer Motion
+
+It is completely responsive and can be used for any type of web application.
+
+### Run this app locally
+
+```shell
+npm install
+```
+
+```shell
+npm run start
+```
